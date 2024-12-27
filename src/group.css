@@ -1,0 +1,89 @@
+/* .group-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #4CAF50;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px;
+  color: black;
+} */
+
+
+
+/* .group-container {
+  position: relative;
+  width: 300px;
+  height: 300px; 
+  border: 1px solid #ddd;
+  margin: 20px auto;
+} */
+
+/* .group-corner {
+  position: absolute;
+  font-size: 16px;
+  color: #333;
+  font-weight: bold;
+}
+
+.top-left {
+  top: 10px;
+  left: 10px;
+}
+
+.top-right {
+  top: 10px;
+  right: 10px;
+}
+
+.bottom-left {
+  bottom: 10px;
+  left: 10px;
+}
+
+.bottom-right {
+  bottom: 10px;
+  right: 10px;
+} */
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.morning{
+  background-color: skyblue;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.afternoon{
+  background-color: blue;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.night{
+  background-color: gray;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
